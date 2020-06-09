@@ -1,0 +1,14 @@
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\bin\Debug\InventoryDB.mdf
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\bin\Debug\InventoryDB_log.ldf
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\bin\Debug\Storage_Database.exe.config
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\bin\Debug\Storage_Database.exe
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\bin\Debug\Storage_Database.pdb
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Inventory_Database.csprojAssemblyReference.cache
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Storage_Database.Properties.Resources.resources
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Inventory_Database.csproj.GenerateResource.cache
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Inventory_Database.csproj.CoreCompileInputs.cache
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Storage_Database.exe
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Storage_Database.pdb
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Storage_Database.Dashboard.resources
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Storage_Database.PCAddition.resources
+C:\Users\twist\source\repos\Storage_Database\Storage_Database\obj\Debug\Storage_Database.EditPC.resources
